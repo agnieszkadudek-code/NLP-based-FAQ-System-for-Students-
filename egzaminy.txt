@@ -1,0 +1,288 @@
+P: Jak zalogować się do systemu egzaminacyjnego?
+O: Jako login podajemy adres mailowy w domenie @uj.edu.pl (@student.uj.edu.pl) oraz swoje hasło. (to samo, które jest używane w systemie pocztowym).
+P: Zalogowałam(-em) się ale nie mogę rozpocząć testu?
+O: Test jest dostępny (aktywny) jedynie o okresie zdefiniowanym przez egzaminatora.
+P: Czy mogę wrócić do poprzednich pytań?
+O: W systemie nie ma możliwości powrotu do poprzednich pytań (poprawiać odpowiedź można tylko podczas wyświetlania danego pytania).
+P: W jaki sposób jest przydzielany czas dla pytań?
+O: Czas na poszczególne pytania jest rozliczany indywidulnie i jest indywidulanie ustalany przez egzaminującego. W ramach czasu przeznaczonego na pytanie należy wybrać odpowiedź i kliknąć przycisk „ZAPISZ”.
+P: Co jeśli wystąpią problemy z internetem podczas egzaminu?
+O: Jeżeli napotkają Państwo problemy (np. z połączeniem internetowym) - po ponownym zalogowaniu się - kontynuują państwo egzamin. Czas egzaminu nie ulega wydłużeniu i pewna pula pytań może wygasnąć.
+P: Dlaczego po odświeżeniu strony wyświetliły się inne odpowiedzi?
+O: Odświeżenie każdorazowo strony powoduje losowanie pozycji odpowiedzi w pytaniu. Prezentowane odpowiedzi zawsze są takie same ale mają różne pozycje.
+P: Gdzie znajdę informacje dotyczące terminów egzaminów w sesji?
+O: Kalendarz egzaminów w sesji oraz informacje na temat form poszczególnych egzaminów publikowane są na stronie wydziałów.
+P: Jaką najniższą ocenę muszę uzyskać aby zdać egzamin?
+O: Najniższą oceną jest 3.
+P: Jaka jest najwyższa możliwa ocena?
+O: Najwyższą możliwą oceną jest 5.
+P: Kiedy jest sesja?
+O: Sesja odbywa się w terminie od 14 czerwca do 30 czerwca.
+P: Kiedy jest sesja poprawkowa?
+O: Sesja poprawkowa odbywa się w pierwszym dwóch tygodniach września.
+P: Czy mogę przystąpić do egzaminu pomimo braku uzyskania zaliczenia z zajęć?
+O: Nie. Warunkiem dopuszczenia studenta do egzaminu jest obowiązek uzyskania przez niego zaliczenia wszystkich form zajęć w ramach danego modułu zajęć. Ponadto, warunki dopuszczenia do egzaminu określone są w sylabusie modułu zajęć.
+P: Ile razy mogę przystąpić do egzaminu z danego przedmiotu?
+O: Co do zasady, student ma prawo do trzykrotnego przystąpienia do egzaminu w zaplanowanych terminach, w tym jeden raz w terminie podstawowym i dwa razy w terminie poprawkowym.
+P: Czym jest termin zerowy egzaminu?
+O: Jest to dodatkowy termin pisania egzaminu przed sesją.
+P: Czy egzamin w terminie zerowym wlicza się do liczby terminów egzaminów, które mi przysługują?
+O: Egzamin w terminie zerowym odbywa się przed sesją egzaminacyjną i nie jest wliczany do liczby trzech terminów egzaminów. 
+P: Gdzie powinny być ogłoszone wyniki egzaminu?
+O: W systemie USOS.
+P: Kiedy będę znać wyniki egzaminu?
+O: Wyniki egzaminu, w tym także zerowego, ogłaszane są studentom nie później niż w ciągu 5 dni od dnia przeprowadzenia egzaminu.
+P: Zaspałam na egzamin. Czy mogę usprawiedliwić swoją nieobecność?
+O: To zależy od decyzji egzaminatora. Nieusprawiedliwiona nieobecność na egzaminie w danym terminie powoduje utratę tego terminu.
+P: Czy mogę poprawić ocenę pozytywną?
+O: Egzamin można poprawiać jedynie w przypadku nie uzyskania zaliczenia.
+P: Co to jest ogólny egzamin kierunkowy?
+O: Ogólny egzamin kierunkowy polega na sprawdzeniu poziomu opanowania wiedzy i umiejętności z zakresu studiowanego kierunku studiów. Do ogólnego egzaminu kierunkowego może zostać dopuszczony student, który zaliczył wszystkie przewidziane programem studiów przedmioty i praktyki.
+P: Jakie warunki są konieczne do uzyskania dyplomu z wyróżnieniem?
+O: Średnia powyżej 4.70 i uzyskanie oceny 5 z pracy dyplomowej.
+P: Czy mogę zdawać egzamin online z telefonu?
+O: Egzaminy online należy zdawać z komputera. Użycie telefonu nie jest zalecane ze względu na możliwe problemy techniczne.
+P: Co się stanie, jeśli rozładuje mi się laptop w trakcie egzaminu?
+O: W takiej sytuacji należy niezwłocznie skontaktować się z prowadzącym lub egzaminatorem i spróbować wznowić egzamin po naładowaniu urządzenia.
+P: Czy mogę mieć przy sobie notatki podczas egzaminu?
+O: Zależy to od rodzaju egzaminu. Egzaminy otwarte pozwalają na korzystanie z materiałów, zamknięte — nie.
+P: Czy mogę zmienić grupę egzaminacyjną?
+O: Tak, ale tylko za zgodą prowadzącego i w wyjątkowych przypadkach.
+P: Co oznacza "egzamin ustny na Teams"?
+O: To egzamin przeprowadzany za pomocą aplikacji MS Teams w formie rozmowy wideo z egzaminatorem.
+P: Czy potrzebuję kamery do egzaminu online?
+O: Tak. Wymagane jest włączenie kamery w celu weryfikacji tożsamości i monitorowania przebiegu egzaminu.
+P: Jak długo trwa przeciętny egzamin pisemny?
+O: Czas trwania egzaminu jest ustalany indywidualnie, zwykle wynosi od 60 do 120 minut.
+P: Czy mogę przystąpić do egzaminu po terminie?
+O: Tylko w przypadku usprawiedliwionej nieobecności i za zgodą prowadzącego.
+P: Jakie dokumenty są potrzebne do identyfikacji przed egzaminem?
+O: Wystarczy ważna legitymacja studencka lub inny dokument tożsamości ze zdjęciem.
+P: Jakie pytania pojawiają się na egzaminie praktycznym?
+O: Egzamin praktyczny sprawdza umiejętności związane z kierunkiem studiów, np. analizy danych, rozwiązywania problemów lub prezentacji.
+P: Czy mogę korzystać z kalkulatora podczas egzaminu?
+O: To zależy od decyzji egzaminatora. Informacja o dozwolonych pomocach znajduje się zazwyczaj w ogłoszeniu dotyczącym egzaminu.
+P: Co się stanie, jeśli spóźnię się na egzamin?
+O: W przypadku spóźnienia student może nie zostać dopuszczony do egzaminu, w zależności od regulaminu lub decyzji egzaminatora.
+P: Czy muszę zapisywać się osobno na część ustną i pisemną egzaminu?
+O: Jeżeli egzamin składa się z dwóch części, zapisy mogą odbywać się oddzielnie – zależy to od organizacji egzaminu przez prowadzącego.
+P: Czy egzamin może odbywać się w trybie zdalnym?
+O: Tak, jeśli forma egzaminu została wcześniej zatwierdzona przez uczelnię jako zdalna.
+P: Czy mogę wnieść napoje na salę egzaminacyjną?
+O: Zazwyczaj można mieć przy sobie wodę, ale należy unikać opakowań szeleszczących lub rozpraszających innych.
+P: Jakie są konsekwencje ściągania podczas egzaminu?
+O: Udowodnione ściąganie może skutkować unieważnieniem egzaminu i postępowaniem dyscyplinarnym.
+P: Jak są oceniane egzaminy wielokrotnego wyboru?
+O: Ocena zależy od liczby poprawnych odpowiedzi. Czasami za błędne odpowiedzi odejmowane są punkty.
+P: Kiedy mogę zobaczyć swoją pracę egzaminacyjną?
+O: Egzaminator ma obowiązek umożliwić studentowi wgląd do pracy w terminie do 7 dni od ogłoszenia wyników.
+P: Czy egzaminator może zmienić ocenę po jej ogłoszeniu?
+O: Ocena może zostać zmieniona tylko w przypadku wykrycia oczywistego błędu lub na podstawie odwołania.
+P: Czy mogę odwołać się od wyniku egzaminu?
+O: Tak, student może złożyć odwołanie w formie pisemnej do dziekana w określonym terminie.
+P: Czy mogę wnioskować o przedłużenie czasu egzaminu z powodów zdrowotnych?
+O: Tak, w takim przypadku należy wcześniej zgłosić się do Biura ds. Osób z Niepełnosprawnościami i uzyskać zaświadczenie.
+P: Czy obecność na egzaminie jest obowiązkowa?
+O: Tak, nieobecność bez usprawiedliwienia skutkuje utratą terminu egzaminu.
+P: Co oznacza status „nieklasyfikowany” po egzaminie?
+O: Oznacza, że student nie przystąpił do egzaminu lub nie spełnił warunków zaliczenia przedmiotu.
+P: Czy egzamin może być przełożony z powodu awarii systemu?
+O: Tak, w przypadku problemów technicznych uczelnia może zdecydować o przełożeniu egzaminu.
+P: Czy mogę skorzystać z pomocy tłumacza podczas egzaminu?
+O: Tylko w przypadku studentów zagranicznych i po wcześniejszym uzgodnieniu z uczelnią.
+P: Czy można przystąpić do egzaminu w innym terminie z powodu wyjazdu zagranicznego?
+O: Tak, ale należy wcześniej złożyć pisemny wniosek do dziekana z uzasadnieniem i dokumentami potwierdzającymi wyjazd.
+P: Czy prowadzący może zmienić formę egzaminu w ostatniej chwili?
+O: Zmiana formy egzaminu powinna zostać ogłoszona z odpowiednim wyprzedzeniem; zmiany w ostatniej chwili są niedozwolone bez zgody studentów.
+P: Czy pytania egzaminacyjne mogą się różnić między grupami?
+O: Tak, egzaminator może przygotować różne zestawy pytań dla różnych grup, by uniknąć powielania.
+P: Czy można wnosić własne notatki na egzamin?
+O: Tylko jeśli egzamin ma formę „open book”, co musi być wcześniej jasno określone przez prowadzącego.
+P: Czy egzaminator może udzielać wyjaśnień podczas egzaminu?
+O: Egzaminator może wyjaśniać niejasne sformułowania w pytaniach, ale nie może podpowiadać odpowiedzi.
+P: Czy można pisać egzamin, jeśli nie ma się zaliczonego seminarium?
+O: Nie, wymagane jest wcześniejsze uzyskanie zaliczenia wszystkich zajęć wchodzących w skład przedmiotu.
+P: Czy w trakcie egzaminu można wyjść do toalety?
+O: Tak, ale student powinien zgłosić to komisji egzaminacyjnej, która może odnotować przerwę.
+P: Czy egzamin może odbywać się w weekend?
+O: Tak, uczelnia może zaplanować egzamin na sobotę lub niedzielę, jeśli wcześniej zostanie to ogłoszone.
+P: Czy mogę pisać egzamin w języku angielskim?
+O: Tylko jeśli przedmiot jest prowadzony w języku angielskim lub jeśli student posiada zgodę uczelni.
+P: Czy mogę prosić o egzamin w formie ustnej zamiast pisemnej?
+O: Taką prośbę można zgłosić, ale decyzja należy do prowadzącego i zależy od regulaminu przedmiotu.
+P: Czy prowadzący może zadawać pytania spoza sylabusa?
+O: Pytania egzaminacyjne powinny opierać się na zakresie materiału określonym w sylabusie.
+P: Jak wygląda egzamin dyplomowy?
+O: Egzamin dyplomowy zwykle składa się z prezentacji pracy oraz odpowiedzi na pytania komisji.
+P: Co oznacza „egzamin komisyjny”?
+O: Jest to egzamin przeprowadzany w obecności kilku członków komisji, często na wniosek studenta po niezaliczeniu przedmiotu.
+P: Jakie są zasady przechowywania prac egzaminacyjnych?
+O: Prace egzaminacyjne są archiwizowane przez uczelnię przez co najmniej rok od daty egzaminu.
+P: Czy można przynieść własne kartki na egzamin?
+O: Nie, materiały piśmiennicze są zazwyczaj dostarczane przez uczelnię, aby zapewnić jednolite warunki.
+P: Co to jest egzamin warunkowy?
+O: To egzamin, do którego student może przystąpić mimo niespełnienia pewnych formalnych wymagań, po uzyskaniu zgody dziekana.
+P: Czy obecność technika informatycznego jest wymagana przy egzaminach online?
+O: W przypadku egzaminów online uczelnia może zapewnić wsparcie techniczne, ale nie jest to zawsze obowiązkowe.
+P: Czy egzamin może być nagrywany?
+O: Tak, w przypadku egzaminów online często stosuje się nagrywanie w celu zapewnienia rzetelności oceny.
+P: Czy można wnosić urządzenia elektroniczne na egzamin?
+O: Urządzenia elektroniczne są zazwyczaj zakazane, chyba że są niezbędne do przeprowadzenia egzaminu.
+P: Jakie konsekwencje grożą za podszywanie się pod innego studenta?
+O: Podszywanie się pod inną osobę podczas egzaminu jest ciężkim naruszeniem regulaminu i skutkuje postępowaniem dyscyplinarnym.
+P: Czy w egzaminach zdalnych mogę używać słuchawek?
+O: Używanie słuchawek podczas egzaminów zdalnych jest zazwyczaj zabronione, chyba że egzaminator wyrazi na to zgodę.
+P: Czy muszę mieć dostęp do mikrofonu podczas egzaminu ustnego online?
+O: Tak, mikrofon jest konieczny do komunikacji z egzaminatorem.
+P: Czy można uzyskać kopię swojej pracy egzaminacyjnej?
+O: Student ma prawo wglądu do pracy, ale nie zawsze możliwe jest otrzymanie jej kopii.
+P: Jak wygląda proces odwołania od oceny z egzaminu?
+O: Należy złożyć pisemne odwołanie do dziekana w ciągu 7 dni od ogłoszenia wyniku, wraz z uzasadnieniem.
+P: Co się dzieje, jeśli nie zaliczę żadnego z terminów egzaminu?
+O: W takim przypadku student może zostać skierowany na powtarzanie przedmiotu lub roku, zgodnie z regulaminem studiów.
+P: Czy termin zerowy zawsze jest dostępny dla wszystkich?
+O: Nie, egzamin zerowy jest organizowany według decyzji prowadzącego i może być dostępny tylko dla wybranych studentów.
+P: Czy mogę przystąpić do egzaminu, jeśli nie jestem zapisany na przedmiot w USOSie?
+O: Nie, brak zapisu w USOSie uniemożliwia podejście do egzaminu i wystawienie oceny.
+P: Jakie są zasady przystępowania do egzaminu dyplomowego?
+O: Student musi mieć zaliczone wszystkie moduły kształcenia i złożoną pracę dyplomową zaakceptowaną przez promotora.
+P: Czy można zrezygnować z podejścia do egzaminu w ostatniej chwili?
+O: Tak, ale wymaga to poinformowania egzaminatora i może skutkować utratą terminu, jeśli brak jest usprawiedliwienia.
+P: Czy egzaminator może przeprowadzić egzamin poza harmonogramem sesji?
+O: Tylko w uzasadnionych przypadkach i po uzyskaniu zgody dziekana.
+P: Czy można złożyć wniosek o dodatkowy termin egzaminu?
+O: Tak, w wyjątkowych sytuacjach (np. zdrowotnych), student może wystąpić z pisemnym wnioskiem do dziekana.
+P: Czy przysługuje mi egzamin komisyjny?
+O: Tak, jeżeli student dwukrotnie nie zdał egzaminu, może wystąpić z wnioskiem o egzamin komisyjny.
+P: Kiedy organizowana jest obrona pracy dyplomowej?
+O: Terminy obron ustalane są indywidualnie przez instytuty i publikowane zazwyczaj na ich stronach internetowych.
+P: Ile trwa obrona pracy licencjackiej lub magisterskiej?
+O: Zazwyczaj od 20 do 40 minut, w zależności od liczby członków komisji i liczby pytań.
+P: Czy można obronić pracę zdalnie?
+O: Tak, w uzasadnionych przypadkach i po uzyskaniu zgody dziekana obrona może odbyć się online.
+P: Czy obecność promotora jest obowiązkowa podczas obrony?
+O: Tak, promotor bierze udział w komisji egzaminacyjnej.
+P: Jakie oceny składają się na ocenę końcową ze studiów?
+O: Na ocenę końcową składa się średnia ocen z toku studiów, ocena pracy dyplomowej i ocena z obrony.
+P: Czy na obronę trzeba przynieść dodatkowe dokumenty?
+O: Należy mieć przy sobie dowód tożsamości; inne dokumenty zależą od ustaleń wydziału.
+P: Czy można odwołać się od wyniku obrony pracy dyplomowej?  
+O: Tak, ale tylko w przypadku naruszenia procedur; odwołanie składa się do dziekana lub komisji odwoławczej.
+P: Czy dziekan może zmienić skład komisji egzaminacyjnej na prośbę studenta?  
+O: Tak, ale tylko w uzasadnionych przypadkach i po złożeniu pisemnego wniosku.
+P: Czy można przystąpić do egzaminu w sesji poprawkowej, jeśli wcześniej uzyskało się ocenę pozytywną?  
+O: Nie, sesja poprawkowa jest przewidziana wyłącznie dla osób, które nie zaliczyły egzaminu.
+P: Czy uczelnia ma obowiązek organizować poprawkowy termin egzaminu dla każdego przedmiotu?  
+O: Tak, każdemu studentowi przysługuje co najmniej jedna poprawka w semestrze.
+P: Czy student może zrezygnować z obrony po zatwierdzeniu recenzji?  
+O: Tak, ale będzie musiał ponownie przejść przez procedurę w kolejnym cyklu obron.
+P: Czy praca dyplomowa może zawierać wyniki badań prowadzonych wspólnie z innym studentem?  
+O: Tak, pod warunkiem wyraźnego wskazania, które części są autorstwa danego studenta.
+P: Czy egzamin komisyjny może odbyć się zdalnie?  
+O: Tak, jeśli uczelnia dopuszcza taką formę i student oraz komisja wyrażą zgodę.
+P: Czy prowadzący może obniżyć ocenę za egzamin ustny z powodu spóźnienia studenta?  
+O: Nie, spóźnienie może skutkować niedopuszczeniem do egzaminu, ale nie wpływa na ocenę.
+P: Czy student musi być zapisany na ostatni semestr, aby przystąpić do obrony?  
+O: Tak, obrona jest możliwa tylko dla osób mających status studenta.
+P: Czy uczelnia może odmówić przyjęcia pracy dyplomowej z powodu przekroczenia objętości?  
+O: Tak, jeśli objętość pracy rażąco odbiega od ustalonych norm.
+P: Czy student ma prawo poznać kryteria oceny egzaminu przed jego rozpoczęciem?  
+O: Tak, prowadzący powinien udostępnić kryteria oceny każdemu studentowi.
+P: Czy można obronić pracę w innym instytucie niż ten, w którym się studiowało?  
+O: Tylko po uzyskaniu zgody władz obu jednostek.
+P: Czy recenzja pracy dyplomowej może zawierać sugestie poprawek po obronie?  
+O: Nie, poprawki można wprowadzać tylko przed obroną; po niej praca jest archiwizowana.
+P: Czy dziekan może unieważnić ocenę z egzaminu?  
+O: Tak, w przypadku stwierdzenia naruszenia procedur lub nieuczciwości akademickiej.
+P: Czy student może wybrać formę egzaminu (ustny/pisemny)?  
+O: Nie, formę egzaminu określa prowadzący przedmiot.
+P: Czy egzamin może być przeprowadzony w języku obcym na życzenie studenta?  
+O: Tylko jeśli przewiduje to program studiów lub zostanie udzielona specjalna zgoda.
+P: Czy dziekan ma wgląd do treści pracy dyplomowej przed obroną?  
+O: Tak, dziekan może zażądać wglądu do pracy w ramach nadzoru nad procesem dyplomowania.
+P: Czy student ma obowiązek oddać wszystkie książki z biblioteki przed obroną?  
+O: Tak, rozliczenie z biblioteką jest warunkiem dopuszczenia do obrony.
+P: Czy egzaminy mogą być przeprowadzane w formie testu jednokrotnego wyboru?  
+O: Tak, forma egzaminu zależy od decyzji prowadzącego.
+P: Czy student może uczestniczyć w obronie kolegi jako słuchacz?  
+O: Tylko za zgodą promotora i komisji, o ile nie narusza to zasad poufności.
+P: Czy student ma prawo wglądu do klucza odpowiedzi po egzaminie?
+O: Tak, ale tylko jeśli prowadzący wyrazi na to zgodę. Klucz może być udostępniony np. podczas omówienia wyników.
+P: Czy można zdawać egzamin w innym terminie, jeśli mam kolizję dwóch egzaminów w tym samym czasie?
+O: Tak, należy zgłosić ten fakt w sekretariacie wydziału – uczelnia ma obowiązek wyznaczyć alternatywny termin.
+P: Czy prowadzący może wymagać drukowania pracy egzaminacyjnej po zakończeniu testu online?
+O: Nie, prace zdane elektronicznie nie wymagają wersji papierowej, chyba że jest to wyraźnie określone w regulaminie przedmiotu.
+P: Co się dzieje, jeśli egzaminator nie pojawi się w wyznaczonym terminie egzaminu?
+O: Uczelnia musi niezwłocznie wyznaczyć nowy termin i poinformować studentów (często z zachowaniem dodatkowego czasu na przygotowanie).
+P: Czy na egzaminie można korzystać z oprogramowania specjalistycznego (np. MATLAB, AutoCAD)?
+O: Tak, ale tylko jeśli prowadzący wyraźnie to dopuszcza i zapewni dostęp do licencji na uczelnianych komputerach.
+P: Czy można przystąpić do egzaminu poprawkowego, jeśli w terminie podstawowym otrzymało się ocenę 3.0?
+O: Nie, poprawka jest tylko dla studentów, którzy nie zdali egzaminu (ocena 2.0 lub nieobecność).
+P: Czy student zagraniczny może zdawać egzamin poprawkowy poza wrześniem (np. w październiku)?
+O: Tylko za zgodą dziekana, np. z powodu wizy lub powrotu do kraju.
+P: Czy niezaliczenie egzaminu poprawkowego automatycznie oznacza powtarzanie roku?
+O: Nie zawsze – zależy to od regulaminu uczelni. Często można ubiegać się o tzw. egzamin komisyjny.
+P: Czy promotor może odmówić dopuszczenia pracy do obrony, jeśli student nie wprowadził wszystkich poprawek?
+O: Tak, praca musi być zatwierdzona przez promotora przed złożeniem do komisji.
+P: Czy można obronić pracę dyplomową w języku obcym (np. angielskim) na polskim kierunku studiów?
+O: Tak, jeśli promotor i dziekan wyrażą zgodę, a praca spełnia wymogi formalne.
+P: Czy recenzent może zażądać zmian w pracy już po jej złożeniu do obrony?
+O: Nie, recenzent ocenia ostateczną wersję pracy – ewentualne uwagi zgłasza przed obroną.
+P: Czy student może wnioskować o zmianę recenzenta pracy dyplomowej?
+O: Tylko w wyjątkowych sytuacjach (np. konflikt interesów) i za zgodą dziekana.
+P: Czy podczas egzaminu online można mieć włączone drugie urządzenie (np. tablet)?
+O: Nie, jeśli regulamin zabrania korzystania z dodatkowych urządzeń – może to być uznane za próbę oszustwa.
+P: Co zrobić, jeśli platforma egzaminacyjna zawiesi się w trakcie testu?
+O: Należy natychmiast zrobić zrzut ekranu i powiadomić prowadzącego – egzamin powinien zostać wznowiony lub powtórzony.
+P: Czy egzaminator może wymagać pokazania całego pomieszczenia przez kamerę przed rozpoczęciem egzaminu?
+O: Tak, to standardowa procedura weryfikacji warunków zdawania.
+P: Czy student może zrezygnować z oceny z egzaminu (np. 3.0) i przystąpić do poprawki, aby uzyskać lepszy wynik?
+O: Nie, poprawka jest tylko dla osób, które nie zdały.
+P: Czy można zdawać egzamin w innym ośrodku akademickim (np. ze względu na pobyt za granicą)?
+O: Tak, ale tylko za zgodą dziekana i jeśli uczelnia ma odpowiednie porozumienia.
+P: Czy prowadzący może anulować egzamin, jeśli wszyscy studenci zrezygnują z pierwszego terminu?
+O: Nie, musi wyznaczyć nowy termin zgodnie z harmonogramem sesji.
+P: Czy na egzaminie z programowania można korzystać z internetu (np. dokumentacji języków)?
+O: Zależy od prowadzącego – niektóre egzaminy dopuszczają tzw. "open book" z ograniczonym dostępem do sieci.
+P: Czy w sali egzaminacyjnej można mieć własną klawiaturę/mysz?
+O: Tak, jeśli nie narusza to zasad uczelni (np. urządzenia bez funkcji zapisu danych).
+P: Czy wolno mieć otwarte okno w pomieszczeniu podczas egzaminu online?
+O: Tak, o ile nie hałasuje i nie rozprasza innych (ale niektóre regulaminy wymagają zamkniętego pokoju).
+P: Czy można zdawać egzamin ustny w formie pisemnej ze względu na niepełnosprawność?
+O: Tak, po przedłożeniu odpowiedniego zaświadczenia z Biura ds. Osób z Niepełnosprawnościami.
+P: Czy prowadzący może zmienić formę egzaminu z ustnej na pisemną w trakcie sesji?
+O: Nie, zmiana formy egzaminu wymaga zgody dziekana i odpowiedniego wyprzedzenia.
+P: Czy na egzaminie można korzystać z własnych słowników (np. językowych)?
+O: Tylko jeśli prowadzący wyraźnie na to zezwoli - zwykle dotyczy to egzaminów językowych.
+P: Czy można zdawać egzamin poprawkowy z przedmiotu, który nie był zdawany w terminie podstawowym?
+O: Nie, poprawka dotyczy tylko przedmiotów, z których student przystąpił do egzaminu w pierwszym terminie.
+P: Czy ocena z egzaminu poprawkowego może być wyższa niż 3.0?
+O: Tak, można otrzymać każdą ocenę, jednak niektóre uczelnie wprowadzają ograniczenia.
+P: Czy można przesunąć termin obrony z powodu choroby promotora?
+O: Tak, uczelnia musi wyznaczyć nowy termin w porozumieniu ze studentem.
+P: Czy recenzja pracy dyplomowej może być anonimowa?
+O: Nie, student ma prawo znać tożsamość recenzenta i jego kwalifikacje.
+P: Czy podczas egzaminu online można mieć włączony wirtualny pulpit?
+O: Nie, to może być uznane za próbę oszustwa.
+P: Czy uczelnia zapewnia sprzęt komputerowy do zdawania egzaminów online?
+O: Tylko w szczególnych przypadkach, po wcześniejszym zgłoszeniu potrzeby.
+P: Czy można żądać obecności świadka podczas egzaminu ustnego?
+O: Tak, w przypadku zgłoszenia wątpliwości co do obiektywności egzaminatora.
+P: Czy student może nagrywać własny egzamin ustny?
+O: Tylko za zgodą wszystkich uczestników egzaminu.
+P: Czy na egzaminie z rysunku można używać tabletu graficznego?
+O: Tak, jeśli prowadzący wyrazi na to zgodę przed egzaminem.
+P: Czy podczas egzaminu laboratoryjnego można korzystać z własnych próbek materiałów?
+O: Nie, wszystkie materiały powinny być zapewnione przez uczelnię.
+P: Czy można zdawać egzamin bez ważnej legitymacji studenckiej?
+O: Nie, należy mieć przy sobie ważny dokument tożsamości.
+P: Czy student może wnieść sprzeciw do protokołu egzaminacyjnego?
+O: Tak, w ciągu 24 godzin od zakończenia egzaminu.
+P: Czy można zdawać egzamin w szpitalu, jeśli student jest hospitalizowany?
+O: Tak, po przedstawieniu zaświadczenia lekarskiego i uzgodnieniu warunków z uczelnią.
+P: Czy student w kwarantannie może zdawać egzamin stacjonarny?
+O: Nie, w takim przypadku należy zorganizować egzamin w formie zdalnej.
+P: Czy prowadzący może wystawić ocenę końcową bez przeprowadzenia egzaminu?
+O: Tak, jeśli regulamin przedmiotu dopuszcza inne formy zaliczenia.
+P: Czy można poprawić ocenę pozytywną z egzaminu w celu podwyższenia średniej?
+O: Nie, poprawiać można tylko oceny niedostateczne.

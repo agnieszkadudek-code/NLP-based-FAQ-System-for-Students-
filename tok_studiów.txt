@@ -1,0 +1,294 @@
+P: Jakie są obowiązki studenta podczas toku studiów?
+O: Student musi zaliczać przedmioty zgodnie z planem studiów, uczestniczyć w zajęciach, odbywać praktyki, a także zdawać egzaminy.
+P: Co to jest plan studiów i jak z niego korzystać?
+O: Plan studiów to harmonogram przedmiotów, które student musi zaliczyć na danym kierunku. Pomaga zaplanować semestry i terminy zaliczeń.
+P: Jakie są formy zaliczeń na studiach?
+O: Zaliczania mogą mieć formę egzaminów pisemnych lub ustnych, testów, projektów, referatów, kolokwiów lub praktyk.
+P: Co to jest indeks studencki i czy nadal jest używany?
+O: Indeks to dokument potwierdzający przebieg studiów i zaliczenia przedmiotów, jednak wiele uczelni przechodzi na systemy elektroniczne.
+P: Czy można zaliczyć przedmiot bez uczestnictwa w zajęciach?
+O: Zależy od uczelni i przedmiotu, ale często obecność jest wymagana, a zaliczenie bez uczestnictwa jest trudne lub niemożliwe.
+P: Co oznacza zawieszenie studiów i kiedy można je zastosować?
+O: Zawieszenie to przerwa w toku studiów, którą student może wziąć z powodów zdrowotnych, rodzinnych lub innych, po złożeniu wniosku.
+P: Jak wygląda zaliczanie semestru?
+O: Semestr uznaje się za zaliczony, gdy student ma wszystkie zaliczenia i egzaminy wymagane w planie studiów.
+P: Czy na studiach można uczestniczyć w zajęciach fakultatywnych?
+O: Tak, zajęcia fakultatywne są dodatkowe i można je realizować dla rozszerzenia wiedzy.
+P: Co to jest USOS?
+O: To system elektroniczny do rejestracji zaliczeń, ocen i informacji o toku studiów.
+P: Co to jest urlop dziekański?
+O: Urlop dziekański to formalna przerwa w studiach udzielana na wniosek studenta z ważnych powodów, np. zdrowotnych, rodzinnych czy osobistych.
+P: Kto może ubiegać się o urlop dziekański?
+O: Każdy student studiów stacjonarnych i niestacjonarnych, który uzasadni swoją prośbę ważnymi powodami.
+P: Jak długo trwa urlop dziekański?
+O: Zwykle urlop może trwać od jednego semestru do maksymalnie dwóch, zależnie od decyzji dziekana.
+P: Czy urlop dziekański jest płatny?
+O: Urlop dziekański to przerwa w studiach, więc student nie płaci za ten okres czesnego, jeśli studiuje niestacjonarnie.
+P: Czy podczas urlopu dziekańskiego student ma status studenta?
+O: Tak, podczas urlopu dziekańskiego student zachowuje status studenta i prawo do powrotu na studia.
+P: Czy podczas urlopu dziekańskiego można korzystać z uczelnianych świadczeń?
+O: Zależy od uczelni, ale często świadczenia takie jak stypendia lub dostęp do biblioteki są zawieszone.
+P: Jak złożyć wniosek o urlop dziekański?
+O: Wniosek składa się do dziekanatu lub przez system elektroniczny, dołączając dokumenty potwierdzające powód urlopu.
+P: Czy wniosek o urlop dziekański musi być poparty dokumentami?
+O: Tak, np. zaświadczeniem lekarskim, dokumentami rodzinnymi lub innymi dowodami usprawiedliwiającymi przerwę.
+P: Czy dziekan może odmówić udzielenia urlopu dziekańskiego?
+O: Tak, jeśli powód jest niewystarczająco uzasadniony lub wniosek jest złożony po terminie.
+P: Czy można wziąć urlop dziekański na więcej niż jeden semestr?
+O: Tak, ale zwykle maksymalnie na dwa semestry; dłuższe przerwy wymagają indywidualnych ustaleń.
+P: Czy urlop dziekański wpływa na wydłużenie czasu studiów?
+O: Tak, urlop automatycznie przedłuża termin ukończenia studiów o czas przerwy.
+P: Czy podczas urlopu dziekańskiego można pracować?
+O: Tak, urlop daje możliwość skoncentrowania się na innych obowiązkach, np. pracy zawodowej.
+P: Czy można korzystać z urlopu dziekańskiego kilkukrotnie?
+O: Tak, o ile łączne przerwy nie przekroczą limitów określonych w regulaminie studiów.
+P: Czy podczas urlopu dziekańskiego student musi się zarejestrować na kolejny semestr?
+O: Nie, podczas urlopu rejestracja na zajęcia jest zawieszona.
+P: Jakie są skutki urlopu dziekańskiego dla stypendiów?
+O: Zwykle zawiesza się wypłatę stypendiów i innych świadczeń finansowych na czas urlopu.
+P: Czy po urlopie dziekańskim trzeba zdawać zaległe egzaminy?
+O: Tak, po powrocie student musi zaliczyć wszystkie przedmioty zgodnie z planem studiów.
+P: Co się stanie, jeśli student nie wróci po urlopie dziekańskim?
+O: Uczelnia może skreślić studenta z listy, jeśli nie podejmie studiów po upływie urlopu.
+P: Czy urlop dziekański może być udzielony z powodu wyjazdu na dłuższy staż lub praktykę?
+O: Tak, jeśli wyjazd uniemożliwia kontynuowanie zajęć i jest udokumentowany.
+P: Czy można zrezygnować z urlopu dziekańskiego i wrócić wcześniej na studia?
+O: Zazwyczaj tak, ale wymaga to złożenia odpowiedniego wniosku i zgody dziekana.
+P: Jakie formalności trzeba załatwić po powrocie z urlopu dziekańskiego?
+O: Student musi się ponownie zarejestrować na semestr i uzupełnić wszystkie zaległości.
+P: Czy urlop dziekański przerywa ciągłość ubezpieczenia zdrowotnego studenta?
+O: Zależy od kraju i przepisów; w niektórych sytuacjach ubezpieczenie może być zawieszone.
+P: Czy student może wziąć urlop dziekański z powodu problemów zdrowotnych psychicznych?
+O: Tak, to uznawany powód, wymagający stosownych zaświadczeń lekarskich.
+P: Czy urlop dziekański można wziąć z powodu obowiązków rodzinnych, np. opieki nad bliskim?
+O: Tak, jeśli jest to odpowiednio udokumentowane.
+P: Czy urlop dziekański jest odnotowany w indeksie lub systemie studenckim?
+O: Tak, w dokumentacji studiów jest wpis o udzielonym urlopie.
+P: Czy można przepisać ocenę z przedmiotu, który realizowałem wcześniej na innym kierunku studiów?
+O: Tak, jeśli przedmiot jest uznany za równoważny pod względem programu i zakresu materiału.
+P: Czy oceny z innej uczelni można przepisać na moją obecną uczelnię?
+O: Tak, po spełnieniu wymogów formalnych i zaakceptowaniu przez dziekana lub komisję ds. uznawania przedmiotów.
+P: Jak wygląda procedura przepisywania zaliczeń z innych studiów?
+O: Trzeba złożyć wniosek do dziekanatu, dołączyć sylabusy i dokumenty potwierdzające realizację oraz oceny z danego przedmiotu.
+P: Czy zawsze muszę dostarczyć sylabus przedmiotu, aby przepisać zaliczenie?
+O: Tak, sylabus pomaga ocenić, czy zakres materiału jest porównywalny i czy przedmiot można uznać.
+P: Kto podejmuje decyzję o uznaniu zaliczenia lub oceny z innej uczelni?
+O: Zwykle dziekan lub komisja ds. uznawania przedmiotów.
+P: Czy można przepisać przedmiot realizowany na studiach niestacjonarnych do studiów stacjonarnych i odwrotnie?
+O: Tak, ale decyzja zależy od zgodności programowej i regulaminu uczelni.
+P: Czy ocena z innej uczelni wpływa na średnią ocen na mojej uczelni?
+O: Zazwyczaj przepisywana ocena jest wliczana do średniej, chyba że regulamin stanowi inaczej.
+P: Co zrobić, jeśli ocena z innej uczelni jest niższa niż minimalna wymagana na mojej uczelni?
+O: Przepisywanie może być wtedy odmówione lub wymagana jest poprawa zaliczenia.
+P: Czy można przepisać tylko zaliczenie bez oceny?
+O: Tak, jeśli regulamin uczelni dopuszcza przepisywanie zaliczeń bez oceny.
+P: Jak długo trwa procedura uznawania przedmiotów z innych studiów?
+O: Zazwyczaj kilka tygodni, zależnie od uczelni i kompletności dokumentów.
+P: Czy muszę osobiście zgłaszać się do dziekanatu z dokumentami?
+O: Nie zawsze, często można złożyć wniosek i dokumenty elektronicznie.
+P: Czy można przepisać przedmiot z uczelni zagranicznej?
+O: Tak, ale zwykle wymaga tłumaczeń dokumentów i dodatkowej weryfikacji.
+P: Co jeśli program przedmiotu różni się tylko częściowo?
+O: Częściowe przepisywanie może być możliwe, np. uznanie zaliczenia tylko z części materiału.
+P: Czy przepisywanie przedmiotów wpływa na długość studiów?
+O: Może skrócić czas studiów, bo student nie musi ponownie zdawać zaliczonych już przedmiotów.
+P: Czy można odwołać się od decyzji dziekana o odmowie przepisywania zaliczenia?
+O: Tak, najczęściej można złożyć odwołanie do komisji odwoławczej uczelni.
+P: Czy student samodzielnie decyduje, które przedmioty chce przepisać?
+O: Student może wskazać przedmioty, ale decyzja o ich uznaniu należy do uczelni.
+P: Czy można przepisać przedmiot z innego kierunku na tej samej uczelni?
+O: Tak, jeśli jest to zgodne z regulaminem i programem studiów.
+P: Czy są limity ile przedmiotów można przepisać?
+O: Tak, uczelnie często ustalają limit procentowy lub liczbę przepisywanych przedmiotów.
+P: Czy przepisywanie ocen jest możliwe także na studiach podyplomowych?
+O: Zależy od regulaminu konkretnego studium podyplomowego.
+P: Co się dzieje z oceną, jeśli przedmiot był realizowany wiele lat temu?
+O: Uczelnia może wymagać aktualizacji wiedzy lub nie przepisywać bardzo starych ocen.
+P: Czy można usprawiedliwić nieobecność na zajęciach?
+O: Tak, nieobecność można usprawiedliwić przedstawiając odpowiedni dokument, np. zaświadczenie lekarskie lub inne oficjalne zwolnienie.
+P: Jakie dokumenty są potrzebne do usprawiedliwienia nieobecności?
+O: Najczęściej jest to zwolnienie lekarskie, zaświadczenie z uczelni, instytucji, lub inny dokument potwierdzający ważną przyczynę nieobecności.
+P: Do kogo należy zgłosić nieobecność i jej usprawiedliwienie?
+O: Zwykle do prowadzącego zajęcia lub do dziekanatu, zgodnie z regulaminem uczelni.
+P: Ile nieobecności można mieć bez konsekwencji?
+O: To zależy od regulaminu studiów i ustaleń prowadzącego zajęcia – często jest to określony procent obecności lub liczba dopuszczalnych nieobecności.\
+P: Czy zwolnienie z zajęć jest możliwe na cały semestr?
+O: Tak, np. w przypadku poważnej choroby lub innych ważnych powodów można złożyć wniosek o zwolnienie z zajęć.
+P: Jakie są podstawy do zwolnienia z zajęć?
+O: Choroba, udział w zawodach, reprezentowanie uczelni, ważne sprawy rodzinne, inne okoliczności losowe.
+P: Czy zwolnienie z zajęć zwalnia z obowiązku zdawania zaliczeń?
+O: Nie zawsze – często trzeba zdawać zaliczenia lub odrobić zajęcia w inny sposób.
+P: Jak zgłosić długotrwałą nieobecność na zajęciach?
+O: Należy poinformować dziekanat i prowadzących zajęcia oraz dostarczyć odpowiednie dokumenty usprawiedliwiające.
+P: Co się stanie, jeśli nie usprawiedliwię nieobecności?
+O: Może to skutkować brakiem zaliczenia zajęć lub koniecznością ich powtórzenia.
+P: Czy studenci mogą zwolnić się samodzielnie z zajęć?
+O: Nie, zwolnienia muszą być formalnie zatwierdzone.
+P: Czy można odpracować nieobecności na zajęciach?
+O: Często tak, jeśli prowadzący przewidział taką możliwość.
+P: Czy zwolnienia z zajęć są udzielane również na studiach niestacjonarnych?
+O: Tak, zasady są podobne, choć mogą być bardziej elastyczne.
+P: Czy prowadzący mogą wymagać dodatkowych zadań za nieobecność?
+O: Tak, często jest to warunek uzyskania zaliczenia mimo nieobecności.
+P: Kiedy należy dostarczyć usprawiedliwienie za nieobecność?
+O: Zwykle w ciągu kilku dni od powrotu na zajęcia, zgodnie z regulaminem.
+P: Jakie są podstawowe prawa studenta?
+O: Prawo do nauki, korzystania z zasobów uczelni, udziału w wyborach uczelnianych, zrzeszania się w organizacjach studenckich oraz do ochrony prawnej.
+P: Czy student ma prawo do opieki socjalnej na uczelni?
+O: Tak, student ma prawo do korzystania z pomocy materialnej, stypendiów oraz mieszkań studenckich.
+P: Jakie obowiązki ma student wobec uczelni?
+O: Obowiązek systematycznego uczestniczenia w zajęciach, zdawania egzaminów i zaliczeń, przestrzegania regulaminów oraz dbania o dobre imię uczelni.
+P: Czy student ma prawo do korzystania z biblioteki uczelnianej?
+O: Tak, to jedno z podstawowych praw każdego studenta.
+P: Czy student może być dyscyplinarnie ukarany?
+O: Tak, jeśli naruszy regulamin uczelni lub przepisy prawa, np. za plagiat, zakłócanie zajęć, nietrzeźwość.
+P: Czy student ma obowiązek uczestniczyć w zajęciach?
+O: Tak, jeśli regulamin studiów przewiduje obowiązkową frekwencję.
+P: Czy student ma prawo do zrzeszania się w organizacjach studenckich?
+O: Tak, to prawo jest zagwarantowane ustawowo.
+P: Jakie są prawa studenta niepełnosprawnego?
+O: Prawo do dostosowania warunków nauki i egzaminów do swoich potrzeb oraz korzystania z odpowiednich form wsparcia.
+P: Czy student ma prawo do skargi i odwołania od decyzji uczelni?
+O: Tak, ma prawo odwołać się od decyzji administracyjnych zgodnie z procedurami uczelnianymi.
+P: Czy student musi posiadać legitymację studencką?
+O: Tak, jest to obowiązkowy dokument potwierdzający status studenta.
+P: Czy student może być skreślony z listy studentów?
+O: Tak, w przypadku poważnych naruszeń lub niespełnienia warunków studiowania.
+P: Czym jest lektorat na uczelni?
+O: Lektorat to kurs językowy organizowany dla studentów, mający na celu naukę lub doskonalenie języka obcego.
+P: Czy lektorat jest obowiązkową częścią programu studiów?
+O: W większości przypadków tak, szczególnie na kierunkach humanistycznych i społecznych.
+P: Jakie języki są najczęściej oferowane na lektoratach?
+O: Najczęściej angielski, niemiecki, francuski, hiszpański, a także inne języki obce w zależności od uczelni.
+P: Jakie są formy zajęć na lektoracie?
+O: Zajęcia obejmują ćwiczenia, konwersacje, gramatykę, czytanie oraz pisanie.
+P: Czy na lektoracie jest obowiązkowa obecność?
+O: Tak, uczelnie zazwyczaj wymagają obecności na zajęciach.
+P: Jakie są metody zaliczenia lektoratu?
+O: Zaliczenie może odbywać się poprzez testy, egzaminy pisemne lub ustne, a także ocenę aktywności.
+P: Czy lektorat można zaliczyć szybciej, np. zdając egzamin zewnętrzny?
+O: Tak, często uczelnia dopuszcza zwolnienie z lektoratu po przedstawieniu odpowiedniego certyfikatu.
+P: Czy lektorat ma wpływ na ostateczną ocenę na dyplomie?
+O: Ocena z lektoratu jest częścią ocen studenta, ale rzadko decyduje o końcowej ocenie dyplomu.
+P: Czy student może wybrać poziom trudności lektoratu?
+O: Zazwyczaj tak, na podstawie testu kwalifikacyjnego na początku semestru.
+P: Czy student może być zwolniony z lektoratu?
+O: Tak, może uzyskać zwolnienie np. na podstawie certyfikatu potwierdzającego znajomość języka lub wcześniejszego zaliczenia.
+P: Czy możliwe jest przeniesienie zaliczenia lektoratu z innej uczelni?
+O: Czasami tak, jeśli uczelnia zaakceptuje dokumenty potwierdzające zaliczenie.
+P: Jak odbywają się zapisy na przedmioty na uczelni?
+O: Zazwyczaj przez system elektroniczny, gdzie student wybiera przedmioty na kolejny semestr.
+P: Czy zapisy na przedmioty są obowiązkowe?
+O: Tak, bez zapisania się na przedmiot student nie może uczestniczyć w zajęciach ani zaliczyć ich.
+P: Czy można się zapisać na przedmiot fakultatywny?
+O: Tak, przedmioty fakultatywne są dobrowolne i można na nie zapisywać się w systemie.
+P: Czy liczba miejsc na przedmioty jest ograniczona?
+O: Tak, często są limity miejsc, więc zapisy odbywają się do wyczerpania miejsc.
+P: Co się stanie, jeśli nie zapiszę się na obowiązkowy przedmiot?
+O: Możesz mieć problem z zaliczeniem semestru, a w konsekwencji z kontynuacją studiów.
+P: Czy student może zapisać się na więcej przedmiotów niż wymagane?
+O: Tak, jeśli ma na to czas i chęć, może realizować dodatkowe przedmioty fakultatywne.
+P: Czy przedmioty fakultatywne wliczają się do liczby punktów ECTS?
+O: Tak, zaliczone przedmioty fakultatywne dają punkty ECTS, które liczą się do całkowitego limitu.
+P: Czy przedmiot fakultatywny można zaliczyć bez uczestnictwa w zajęciach?
+O: Zazwyczaj nie, ale w niektórych przypadkach możliwe jest indywidualne zaliczenie.
+P: Czy przedmioty fakultatywne są oceniane?
+O: Tak, mają oceny i wpisywane są do indeksu lub systemu elektronicznego.
+P: Czy fakultatywny przedmiot może być zaliczony na innej uczelni?
+O: Czasem jest to możliwe po uzgodnieniu z dziekanatem i dostarczeniu odpowiednich dokumentów.
+P: Jak wybrać odpowiedni przedmiot fakultatywny?
+O: Najlepiej kierować się zainteresowaniami oraz planem kariery zawodowej.
+P: Czy mogę zrezygnować z przedmiotu fakultatywnego po zapisaniu?
+O: Tak, ale tylko w określonym terminie zapisów lub korekt.
+P: Czy przedmioty fakultatywne mogą być prowadzone w formie online?
+O: Tak, coraz częściej uczelnie oferują takie formy.
+P: Czy lektorat może być przedmiotem fakultatywnym?
+O: Zazwyczaj lektorat jest obowiązkowy, ale niektóre dodatkowe języki mogą być fakultatywne.
+P: Co zrobić, gdy nie mogę zapisać się na wybrany przedmiot z powodu braku miejsc?
+O: Można zgłosić się do prowadzącego lub dziekanatu w sprawie dodatkowych miejsc lub alternatywnych przedmiotów.
+P: Czy system zapisów na przedmioty jest taki sam dla wszystkich kierunków?
+O: Zazwyczaj tak, ale mogą być drobne różnice w zależności od wydziału lub uczelni.
+P: Czy przedmioty fakultatywne mogą być punktowane dodatkowo poza wymaganym limitem ECTS?
+O: Nie, punkty z fakultatyw są wliczane do ogólnej sumy punktów potrzebnych do ukończenia studiów.
+P: Czy mogę realizować przedmioty fakultatywne z innych kierunków?
+O: Tak, jeśli system zapisów i regulamin uczelni na to pozwalają.
+P: Czy zapis na przedmioty odbywa się co semestr?
+O: Tak, zapisy są zwykle na każdy semestr oddzielnie.
+P: Co się dzieje, jeśli nie zaliczę przedmiotu fakultatywnego?
+O: Nie wpływa to na ukończenie studiów, ale tracisz możliwość zdobycia tych punktów ECTS.
+P: Czy na przedmioty fakultatywne obowiązuje frekwencja?
+O: Tak, jeśli są prowadzone w formie zajęć stacjonarnych.
+P: Czy istnieje limit liczby fakultatywnych przedmiotów, które mogę zrealizować?
+O: Tak, regulamin studiów określa maksymalną liczbę punktów z fakultatyw.
+P: Kiedy zaczynają się zapisy na przedmioty na kolejny semestr?
+O: Terminy zapisów ustala uczelnia i są podawane na jej stronie lub w systemie elektronicznym.
+P: Czy system zapisów pokazuje kolizje godzin zajęć?
+O: Tak, większość systemów automatycznie wykrywa i ostrzega o konfliktach terminów.
+P: Co zrobić, jeśli system nie pozwala mi zapisać się na przedmiot?
+O: Należy skontaktować się z dziekanatem lub administratorem systemu, by wyjaśnić problem.
+P: Czy można zapisać się na przedmiot, który jest pełny?
+O: Zazwyczaj nie, chyba że pojawią się dodatkowe miejsca lub ktoś zrezygnuje.
+P: Czy uczelnia może zmienić termin zapisów lub warunki?
+O: Tak, uczelnia ma prawo zmieniać zasady, ale musi o tym poinformować studentów.
+P: Jak sprawdzić, czy zapis na przedmiot zakończył się sukcesem?
+O: Po zapisie system zwykle pokazuje potwierdzenie, a także można sprawdzić listę zapisanych.
+P: Czy można zaliczyć etap, jeśli brakuje jednej oceny?
+O: Zazwyczaj nie, student musi mieć zaliczone wszystkie wymagane przedmioty.
+P: Co zrobić, jeśli nie zaliczyłem etapu w terminie?
+O: Można ubiegać się o przedłużenie terminu lub powtarzać semestr, zgodnie z regulaminem.
+P: Czy zaliczenie etapu jest potrzebne do kontynuacji studiów?
+O: Tak, bez zaliczenia etapu nie można przejść do kolejnego semestru lub roku.
+P: Czy etap studiów można zaliczyć warunkowo?
+O: W niektórych przypadkach tak, np. gdy brakuje jednego zaliczenia, ale student musi je uzupełnić w określonym terminie.
+P: Jakie są konsekwencje niezaliczenia etapu?
+O: Może to skutkować powtarzaniem semestru, utratą stypendium, a w skrajnych przypadkach skreśleniem z listy studentów.
+P: Czy zaliczenie etapu jest automatyczne po zdaniu wszystkich egzaminów i zaliczeń?
+O: Tak, jeśli wszystkie warunki są spełnione, zaliczenie następuje automatycznie.
+P: Co to są punkty ECTS?
+O: ECTS (European Credit Transfer and Accumulation System) to system punktów służący do oceny i porównywania efektów kształcenia na uczelniach europejskich.
+P: Ile punktów ECTS ma zwykle jeden semestr studiów?
+O: Zwykle semestr studiów to około 30 punktów ECTS.
+P: Ile punktów ECTS trzeba zdobyć, aby ukończyć rok studiów?
+O: Zazwyczaj jest to 60 punktów ECTS za cały rok akademicki.
+P: Jak są przyznawane punkty ECTS?
+O: Punkty przyznawane są za zaliczenie przedmiotów i osiągnięcie określonych efektów kształcenia.
+P: Czy punkty ECTS można przenieść między uczelniami?
+O: Tak, system ECTS ułatwia przenoszenie punktów między uczelniami w Polsce i Europie.
+P: Czy za każdy przedmiot przyznawane są punkty ECTS?
+O: Tak, każdy przedmiot ma określoną wartość punktową zależną od nakładu pracy studenta.
+P: Czy można zdobyć punkty ECTS za praktyki i staże?
+O: Tak, jeśli są przewidziane w programie studiów i odpowiednio zaliczone.
+P: Co się stanie, jeśli nie zdobędę wymaganej liczby punktów ECTS?
+O: Możesz nie zaliczyć semestru lub roku, co może spowodować konieczność powtarzania zajęć.
+P: Czy punkty ECTS są przyznawane automatycznie po zaliczeniu przedmiotu?
+O: Tak, po zaliczeniu przedmiotu student otrzymuje odpowiednią liczbę punktów ECTS.
+P: Czy punkty ECTS mają datę ważności?
+O: Punkty ECTS same w sobie nie tracą ważności, ale zaliczenia mogą podlegać regulaminowym terminom, np. w kontekście programu studiów.
+P: Czy punkty ECTS można zdobywać w ramach zajęć fakultatywnych?
+O: Tak, ale ich liczba i możliwość zdobycia zależy od regulaminu studiów i uczelni.
+P: Czy punkty ECTS są przyznawane tylko za zaliczenia z oceną pozytywną?
+O: Tak, punkty otrzymuje się po pozytywnym zaliczeniu danego przedmiotu.
+P: Jak mogę sprawdzić, ile punktów ECTS mam aktualnie zdobytych?
+O: Informacje te znajdują się zazwyczaj w systemie elektronicznym uczelni lub na swoim indywidualnym koncie studenta.
+P: Czy punkty ECTS przekładają się na poziom trudności przedmiotu?
+O: Nie bezpośrednio, ale zwykle im więcej punktów, tym większy nakład pracy i zakres materiału.
+P: Czy można zdobywać punkty ECTS za kursy realizowane za granicą?
+O: Tak, punkty zdobyte w ramach programów wymiany międzynarodowej są uznawane na zasadzie transferu.
+P: Czy można zdobywać punkty ECTS za kursy realizowane za granicą?
+O: Tak, punkty zdobyte w ramach programów wymiany międzynarodowej są uznawane na zasadzie transferu.
+P: Jak długo trwa semestr zimowy?
+O: Semestr zimowy zwykle trwa od października do lutego.
+P: Jak długo trwa semestr letni?
+O: Semestr letni trwa od marca do czerwca.
+P: Czy uczelnia udostępnia harmonogram zajęć na cały semestr?
+O: Tak, harmonogram zajęć jest zwykle dostępny przed rozpoczęciem semestru i aktualizowany w razie potrzeby.
+P: Kiedy należy się zapisać na przedmioty?
+O: Zapisy odbywają się zazwyczaj kilka tygodni przed rozpoczęciem semestru lub na początku semestru, zgodnie z ustaleniami uczelni.
+P: Jakie dni są wolne od zajęć w ciągu roku akademickiego?
+O: Zwykle dniami wolnymi są święta państwowe oraz dni ustalone przez uczelnię, np. przerwy świąteczne i przerwy międzysemestralne.
+P: Czy podczas sesji egzaminacyjnej odbywają się zajęcia dydaktyczne?
+O: Zazwyczaj nie — sesja jest przeznaczona na egzaminy i zaliczenia.
+P: Jak długo trwa przerwa między semestrami?
+O: Przerwa zimowa trwa zwykle około 2-3 tygodni między semestrem zimowym a letnim, przerwa letnia jest dłuższa i trwa od lipca do końca września.
+P: Czy można otrzymać dodatkowe dni wolne z powodu ważnych wydarzeń uczelnianych?
+O: Tak, uczelnia może ustanowić dni wolne z okazji uroczystości, inauguracji roku akademickiego lub innych ważnych wydarzeń.
